@@ -51,4 +51,5 @@ module Persistence
         new(data)
       end
     end
+  end
 end
